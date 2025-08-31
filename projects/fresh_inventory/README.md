@@ -1,6 +1,17 @@
-# Fresh Inventory Optimization Demo
+---
+title: InventoryPredictDemo
+emoji: 📈
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "3.40.0"
+app_file: app.py
+pinned: false
+---
 
-This demo simulates a simple inventory optimization problem using Monte Carlo demand simulations.
+# Inventory Prediction Demo
+
+Adjust the sliders to set demand, costs, and penalties. Click **Optimize** to see the recommended order quantity and profit curve.
 
 ## How It Works
 
